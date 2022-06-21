@@ -9,6 +9,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/pages/download/)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](fdfgedrfgfsdgd)
 
+[![]()]()
+[![]()]()
+[![]()]()
+
 
 
 
